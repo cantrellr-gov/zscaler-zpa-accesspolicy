@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    zia = {
+    zpa = {
       source  = "zscaler/zpa"
       version = "2.82.1-beta"
     }
